@@ -1,1 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/I2WT8vF3)
+Implemented Metropolis-Hastings MCMC inference to estimate 3D line parameters from noisy 2D images. Tasks included coding the sampler, generating samples, finding MAP estimates, and using dual-camera data for improved accuracy.
