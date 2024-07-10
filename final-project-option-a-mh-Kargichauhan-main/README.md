@@ -1,1 +1,0 @@
-Implemented Metropolis-Hastings MCMC inference to estimate 3D line parameters from noisy 2D images. Tasks included coding the sampler, generating samples, finding MAP estimates, and using dual-camera data for improved accuracy.
